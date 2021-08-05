@@ -12,3 +12,5 @@ here are some pcb renders
 also yes i got permission
 
 ![Screenshot 2021-07-28 140410](https://user-images.githubusercontent.com/55664712/127395677-d2ab2b46-f750-45d8-a1e8-43542dfe2e73.png)
+
+build guide: shove some diodes in there, black bar towards the square pad, shove a pro micro in, matching the tx pin with the square pad, then add some switches and you're done! What's next? Uhhhhhh...
