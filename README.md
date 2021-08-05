@@ -2,6 +2,7 @@
 Alpha28 but there's no space and the B key is 3u long. PCBs have been ordered, firmware is also done. DrHigsby made a case, which is also open source. https://github.com/drhigsby/B-Case. There is no stopping this anymore. You cannot stop this.
 
 here is the kle:
+
 ![albhakle](https://user-images.githubusercontent.com/55664712/127396280-65db349b-3681-499e-b34d-87b29e16dcf3.png)
 
 here are some pcb renders
