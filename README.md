@@ -19,4 +19,3 @@ also yes i got permission
 
 
 
-P.S. if you know where to get a 3u 🅱 key, please let me know, currently looking to use DSA 🅱 on this but i can't find a 3u one 
