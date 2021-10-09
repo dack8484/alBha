@@ -2,6 +2,8 @@
 Alpha28 but there's no space and the B key is 3u long. Everything has been tested. You will need to file down the plate around the stabilizers.
 https://github.com/drhigsby/B-Case. There is no stopping this anymore. You cannot stop this.
 
+![PXL_20211009_191013773 (3)](https://user-images.githubusercontent.com/55664712/136671494-68fcf82e-57b1-4bcf-9c1f-9a3b5251493f.jpg)
+
 Some shots of mine, fully built https://imgur.com/a/nsSfzBz
 
 here is the kle:
